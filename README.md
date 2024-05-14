@@ -21,7 +21,7 @@ This is a simple web-based Tic Tac Toe game implemented using HTML, CSS, and Jav
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
 
-Alternatively, you can [view the live demo](#) hosted on GitHub Pages.
+Alternatively, you can [view the live demo](https://hackur45.github.io/PRODIGY_WB_03/) hosted on GitHub Pages.
 
 ## Customization
 
